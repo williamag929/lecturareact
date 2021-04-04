@@ -1,0 +1,7 @@
+{
+  "name": "lecturareact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
